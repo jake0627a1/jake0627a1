@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**jake0627a1/jake0627a1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**cryto0627/cryto0627** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![](https://github-readme-stats.vercel.app/api?username=jake0627a1&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api?username=cryto0627&theme=tokyonight)

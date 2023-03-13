@@ -1,10 +1,16 @@
 ## <img width="50px" src="https://raw.githubusercontent.com/ms314006/ms314006/basic/resource/gqsm.png" />Clark #ms314006
 
-Hi, I'm Clark! I am a front-end Developer of web. I love learing new technology and skills of web, I writting articles about technology of program I leanrned on [dev.to](https://dev.to/ms314006). I leaving in Taiwan now. I want to work at others country, talk a lot with all sort of people and know more about this world 😸.
+Hello, I am JakeHong, an information technology developer specializing in blockchain, web backend, and smart contract. I graduated from the Department of Computer and Communication Engineering at National Kaohsiung University of Science and Technology.
+
+My personality tends to have planned arrangements, which helps me to efficiently complete tasks at work. I have extensive programming experience and can quickly learn and adapt to new technologies in a fast-paced environment.
+
+I have conducted in-depth research on blockchain technology and have implemented the development of blockchain applications. I am also skilled in web backend design, development, and maintenance, and am familiar with various backend frameworks and database technologies. Additionally, I am proficient in the development and deployment of smart contracts, and can design smart contract systems and perform corresponding testing and verification.
+
+Currently, I am pursuing a master's degree to enhance my professional skills and knowledge. In future work, I hope to continue exploring blockchain technology and web backend development, and utilize the skills and knowledge I have learned to bring value and innovation to the company.
 
 ## 🤓 My values
-🍏 Beginner's mindset and curiosity<br>
-🙌 Sharing anything I learned<br>
+ 1. I am inclined to directly engage with and learn about things that interest me. 
+ 2. I am accustomed to listening to other people's opinions.
 
 ## 🔭 Goals of 2020
 

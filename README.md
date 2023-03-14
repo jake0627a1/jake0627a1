@@ -16,7 +16,7 @@ My goals for 2023 are to achieve a TOEIC score of 600 or above, become proficien
 - C/C++,Python
 
 ## 💡 Projects
-- [NFT ticket verification](https://crypto0627.github.io/nft-boneboss/))
+- [NFT ticket verification](https://crypto0627.github.io/nft-boneboss/)
 
 ## 🔗 Get in touch
 - Personal site: http://crypto0627.github.io/

@@ -1,43 +1,22 @@
-## <img width="50px" src="https://raw.githubusercontent.com/ms314006/ms314006/basic/resource/gqsm.png" />Clark #ms314006
+## Introduce
 
-Hello, I am JakeHong, an information technology developer specializing in blockchain, web backend, and smart contract. I graduated from the Department of Computer and Communication Engineering at National Kaohsiung University of Science and Technology.
+Hello, my name is JakeHong. I have experience in programming languages such as NFT web3, AWS Amplify, web back-end (Node.js, PHP), Python, and Golang. I graduated from the Department of Computer and Communication Engineering at National Kaohsiung University of Science and Technology and I am currently pursuing a master's degree.
 
-My personality tends to have planned arrangements, which helps me to efficiently complete tasks at work. I have extensive programming experience and can quickly learn and adapt to new technologies in a fast-paced environment.
+I enjoy the process of learning a new programming language and gradually becoming familiar with its usage, as it provides me with a great sense of accomplishment when I can develop an application. Through this process, I gain a deeper understanding of important skills such as debugging, application design concepts, project planning, and more. I am eager to apply my skills and knowledge to new challenges and opportunities in the field of software development.
 
-I have conducted in-depth research on blockchain technology and have implemented the development of blockchain applications. I am also skilled in web backend design, development, and maintenance, and am familiar with various backend frameworks and database technologies. Additionally, I am proficient in the development and deployment of smart contracts, and can design smart contract systems and perform corresponding testing and verification.
+## 🔭 Goals of 2023
 
-Currently, I am pursuing a master's degree to enhance my professional skills and knowledge. In future work, I hope to continue exploring blockchain technology and web backend development, and utilize the skills and knowledge I have learned to bring value and innovation to the company.
-
-## 🤓 My values
- 1. I am inclined to directly engage with and learn about things that interest me. 
- 2. I am accustomed to listening to other people's opinions.
-
-## 🔭 Goals of 2020
-
-I want to learn English. Now I watch English youtube channels and articles everyday and write English articles about program technology each week, I hope I can prepared in 2020 💪. I also want to contribute more open source projects make I can improve my skills of program.
+My goals for 2023 are to achieve a TOEIC score of 600 or above, become proficient in using various tools on AWS, and successfully complete my master's degree program.
 
 ## 🧠 That I know and use
 ### 📚 Langues and Frameworks
-- HTML5
-- CSS3, SCSS, SASS
-- Material-ui, Antd, Bootstrap
-- JavaScript, TypeScript
-- React, Redux, Redux-Saga React-Router, Next.js
-- Vue, Vuex, Vue-Router
-- Jest, Enzyme, React-Testing-Library, Vue-Testing-Library
-
-### 🔧 Tool
-- Version Control(Git/it-Flow)
-- Test Driven Developer
-- Open Source Projects
-- Travis-CI
+- HTML5,CSS3,Bootstrap,React
+- Node.js,Solidity,Golang
+- JavaScript, TypeScript,SQL
+- C/C++,Python
 
 ## 💡 Projects
-- [Team of Pokemon](https://ms314006.github.io/team-of-pokemon/dist/)
-- [Hangman](https://ms314006.github.io/hangman/dist/)
-- [90 secconds game - A yellow duck](https://ms314006.github.io/90_secGame-with-React/dist/)
-- [Free cell](https://ms314006.github.io/FreeCell-With-React/dist/index.html)
-- [Music player](https://ms314006.github.io/MP3_Player-With-React/dist/)
+- [NFT ticket verification](https://github.com/crypto0627/nft-boneboss/)
 
 ## 🔗 Get in touch
 - Personal site: http://crypto0627.github.io/

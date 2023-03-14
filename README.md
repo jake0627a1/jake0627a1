@@ -1,4 +1,4 @@
-## Introduce
+## introduction
 
 Hello, my name is JakeHong. I have experience in programming languages such as NFT web3, AWS Amplify, web back-end (Node.js, PHP), Python, and Golang. I graduated from the Department of Computer and Communication Engineering at National Kaohsiung University of Science and Technology and I am currently pursuing a master's degree.
 

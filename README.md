@@ -11,10 +11,10 @@ My goals for 2023 are to achieve a TOEIC score of 600 or above, become proficien
 ## 🧠 That I know and use
 ### 📚 Langues and Frameworks
 - HTML5,CSS3,Bootstrap,React
-- Node.js,Solidity,Golang
+- Node.js,Solidity,Golang，Hardhat
 - JavaScript, TypeScript,SQL
 - C/C++,Python
-
+- Docker, kubernates
 ## 💡 Projects
 - [NFT ticket verification](https://crypto0627.github.io/nft-boneboss/)
 

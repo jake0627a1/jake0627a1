@@ -1,4 +1,4 @@
-## introduction
+## Introduction
 
 Hello, my name is JakeHong. I have experience in programming languages such as web3.js, back-end (Node.js, golang) and Python. I graduated from the Department of Computer and Communication Engineering at National Kaohsiung University of Science and Technology and I am currently pursuing a master's degree.
 

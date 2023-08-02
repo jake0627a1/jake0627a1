@@ -17,7 +17,7 @@ I enjoy the process of learning a new programming language and gradually becomin
 - Docker
 - git/github
 ## 💡 Projects
-- [NFT ticket verification]([https://dev.d3o8tmv3x7j8le.amplifyapp.com/])
+- NFT ticket verification: ([https://dev.d3o8tmv3x7j8le.amplifyapp.com/])
 
 ## 🔗 Get in touch
 - Personal site: ([http://crypto0627.github.io/])

@@ -15,11 +15,11 @@ Hello, my name is JakeKuo. I have experience in programming languages. I graduat
 - Basic, C/C++, Python
 - Environment, Linux, Docker, Kubernetes
 ## 💡 My Projects and participate team project
-- NFT ticket verification ([https://dev.d3o8tmv3x7j8le.amplifyapp.com/])
-- Inazuma: The gateway to decentralized green energy.(Contribute: Frontend, Documentations)([https://github.com/hollow-leaf/inazuma])
-- Yakitate: The web3 food donation platform(Contribute: Frontend, CI/CD)([https://github.com/hollow-leaf/yakitate])
-- BDK: Streamlined blockchain deployment kit for Hyperledger Fabric and Ethereum Quorum.(Contribute: Terminal ui)([https://github.com/cathayddt/bdk])
-- Psyduck: The Chrome extension of web3 live streaming platform donation(Contribute: CI/CD, Frontend)([https://github.com/hollow-leaf/psyduck])
+- NFT ticket verification platform(2023 DLT數位生活研討會) ([https://dev.d3o8tmv3x7j8le.amplifyapp.com/])
+- Inazuma(Win Hackathon No.2): The gateway to decentralized green energy.(Contribute: Frontend, Documentations)([https://github.com/hollow-leaf/inazuma])
+- Yakitate(Algorand hackathon Finallist): The web3 food donation platform(Contribute: Frontend, CI/CD)([https://github.com/hollow-leaf/yakitate])
+- BDK(Cathay Financial Holdings open source project): Streamlined blockchain deployment kit for Hyperledger Fabric and Ethereum Quorum.(Contribute: Terminal ui)([https://github.com/cathayddt/bdk])
+- Psyduck(2023 Taipei Blockchain Week hackathon): The Chrome extension of web3 live streaming platform donation(Contribute: CI/CD, Frontend)([https://github.com/hollow-leaf/psyduck])
 
 ## 🔗 My personal site
 - Personal site: ([http://crypto0627.github.io/])

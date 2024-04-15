@@ -1,6 +1,7 @@
 ## Introduction
 
-My name is JakeKuo. I graduated from the Department of Computer and Communication Engineering at National Kaohsiung University of Science and Technology. I have blockchain engineer intership experience in Taiwan’s Cathay financial holdings. It's precious experience for grow up my systen development technology.
+My name is JakeKuo. I graduated from the Department of Computer and Communication Engineering at National Kaohsiung University of Science and Technology. I have blockchain engineer intership experience in Taiwan’s Cathay financial holdings.
+[My Master's thesis: Assessing the Feasibility of the Stellar Consensus Protocol in Pi Network and Business Model Analysis](https://ndltd.ncl.edu.tw/cgi-bin/gs32/gsweb.cgi/login?o=dnclcdr&s=id=%22112NKUS0650001%22.&searchmode=basic)
 
 ## WORK EXPERIENCE
 ### Cathay Financial Holdings 2023/7~2024/2
@@ -8,7 +9,7 @@ My name is JakeKuo. I graduated from the Department of Computer and Communicatio
   - FullStack blockchain system development
     - Financial blockchain system, blockchain developement kit
   - Attend hackathon event
-  - Technical study session
+  - Technical learning session
 - Hackathon events
   - 2024 EthTaipei hackathon circuit bounty (rank 2)
   - 2024 BNBChain hackathon

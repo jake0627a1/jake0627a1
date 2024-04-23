@@ -11,9 +11,9 @@ My name is JakeKuo. I graduated from the Department of Computer and Communicatio
   - Attend hackathon event
   - Technical learning session
 - Hackathon events
-  - 2024 EthTaipei hackathon circuit bounty (rank 2)
-  - 2024 BNBChain hackathon
-  - 2023 Funding the commons Best use Co2.Storage (rank 2)
+  - 2024 EthTaipei hackathon zircuit bounty (rank 2)
+  - 2024 BNBChain Q1 hackathon
+  - 2023 Filecoin green Funding the commons Best use Co2.Storage (rank 2)
   - 2023 Taipei blockchain week demo day (get bounty pool)
   - 2023 Algorand blockchain Final list
   - 2023 Telegram Ton blockchain demo day 
